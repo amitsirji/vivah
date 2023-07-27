@@ -1,0 +1,8 @@
+ document.write("<table border=0 width=100% height=100% bgcolor='white'  align='center' cellspacing=2% cellpadding=0%>")
+		document.write("<tr>")
+			document.write("<td height=160 width=60% align='left' valign='bottom'><img src='pictures/v1.jpg' height=100% width=100%></img></td>")
+		document.write("</tr>")
+		document.write("<tr>")
+			document.write("<td height=20 width=100% colspan=4><hr size=6 width=100% color='#cc0000'></td>")
+		document.write("</tr>")
+document.write("</table>")
